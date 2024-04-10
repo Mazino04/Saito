@@ -14,8 +14,8 @@ android {
         minSdk 21
         targetSdk 34
         versionCode((System.currentTimeMillis() / 60000).toInteger())
-        versionName "4.5.5"
-        versionCode 455000000
+        versionName "4.6.0"
+        versionCode 460000000
         signingConfig signingConfigs.debug
     }
 
