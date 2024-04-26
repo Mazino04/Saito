@@ -14,10 +14,10 @@ class DevelopersDialogFragment : BottomSheetDialogFragment() {
 
     private val developers = arrayOf(
         Developer(
-            "Padrino",
+            "SoyTuJefe",
             "https://avatars.githubusercontent.com/u/92399279?s=400&u=29518f20caf546660452b76cd16dc3c9db6dd99b&v=4",
             "Owner and Maintainer",
-            "https://github.com/Padrino31/Saikou"
+            "https://github.com/SoyTuJefe/Saito"
         ),
     )
 

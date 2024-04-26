@@ -1052,7 +1052,7 @@ class ExoplayerView : AppCompatActivity(), Player.Listener, SessionAvailabilityL
                                 RPC.Link(getString(R.string.view_anime), media.shareLink ?: ""),
                                 RPC.Link(
                                     "Stream on Saito",
-                                    "https://github.com/Padrino31/Saito/"
+                                    "https://github.com/SoyTuJefe/Saito/"
                                 )
                             )
                         )

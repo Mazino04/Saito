@@ -15,10 +15,10 @@ class ForksDialogFragment : BottomSheetDialogFragment() {
 
     private val developers = arrayOf(
         Developer(
-            "Saikou",
+            "Saito",
             "https://avatars.githubusercontent.com/u/92399279?s=400&u=29518f20caf546660452b76cd16dc3c9db6dd99b&v=4",
-            "Padrino",
-            "https://github.com/Padrino31/Saikou"
+            "SoyTuJefe",
+            "https://github.com/SoyTuJefe/Saito"
         ),
     )
 

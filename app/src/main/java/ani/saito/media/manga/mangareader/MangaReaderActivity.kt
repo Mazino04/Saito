@@ -369,7 +369,7 @@ class MangaReaderActivity : AppCompatActivity() {
                                     RPC.Link(getString(R.string.view_manga), media.shareLink ?: ""),
                                     RPC.Link(
                                         "Read on Satio",
-                                        "https://github.com/Padrino31/Saito/"
+                                        "https://github.com/SoyTuJefe/Saito/"
                                     )
                                 )
                             )
