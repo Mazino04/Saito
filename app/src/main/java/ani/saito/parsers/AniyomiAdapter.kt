@@ -525,7 +525,7 @@ class DynamicMangaParser(extension: MangaExtension.Installed) : MangaParser() {
                     put(MediaStore.MediaColumns.MIME_TYPE, "image/${format.name.lowercase()}")
                     put(
                         MediaStore.MediaColumns.RELATIVE_PATH,
-                        "${Environment.DIRECTORY_DOWNLOADS}/Dantotsu/Anime"
+                        "${Environment.DIRECTORY_DOWNLOADS}/Saito/Anime"
                     )
                 }
 
@@ -541,7 +541,7 @@ class DynamicMangaParser(extension: MangaExtension.Installed) : MangaParser() {
                 }
             } else {
                 val directory =
-                    File("${Environment.getExternalStorageDirectory()}${File.separator}Dantotsu${File.separator}Anime")
+                    File("${Environment.getExternalStorageDirectory()}${File.separator}Saito${File.separator}Anime")
                 if (!directory.exists()) {
                     directory.mkdirs()
                 }

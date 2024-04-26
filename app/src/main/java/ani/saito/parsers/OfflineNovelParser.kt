@@ -23,7 +23,7 @@ class OfflineNovelParser : NovelParser() {
         //link should be a directory
         val directory = File(
             currContext()?.getExternalFilesDir(Environment.DIRECTORY_DOWNLOADS),
-            "Dantotsu/Novel/$link"
+            "Saito/Novel/$link"
         )
         val chapters = mutableListOf<Book>()
         if (directory.exists()) {
@@ -62,7 +62,7 @@ class OfflineNovelParser : NovelParser() {
             //need to search the subdirectories for the ShowResponses
             val directory = File(
                 currContext()?.getExternalFilesDir(Environment.DIRECTORY_DOWNLOADS),
-                "Dantotsu/Novel/$title"
+                "Saito/Novel/$title"
             )
             val names = mutableListOf<String>()
             if (directory.exists()) {
@@ -73,7 +73,7 @@ class OfflineNovelParser : NovelParser() {
                 }
             }
             val cover =
-                currContext()?.getExternalFilesDir(Environment.DIRECTORY_DOWNLOADS)?.absolutePath + "/Dantotsu/Novel/$title/cover.jpg"
+                currContext()?.getExternalFilesDir(Environment.DIRECTORY_DOWNLOADS)?.absolutePath + "/Saito/Novel/$title/cover.jpg"
             names.forEach {
                 returnList.add(ShowResponse(it, it, cover))
             }
