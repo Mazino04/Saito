@@ -4,6 +4,7 @@
    <a href="https://www.codefactor.io/repository/github/rebelonion/dantotsu"><img src="https://www.codefactor.io/repository/github/rebelonion/dantotsu/badge?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge" alt="CodeFactor" /></a>
 
 </p>
+
 # **Saito** 🌟
 
 Saito is an [Anilist](https://anilist.co/) only client.
