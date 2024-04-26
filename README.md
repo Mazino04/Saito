@@ -1,7 +1,7 @@
 <p align="center">
    <img src="https://img.shields.io/badge/platforms-android-blueviolet?style=for-the-badge"/>
    <a href="https://github.com/SoyTuJefe/Saito/releases"><img src="https://img.shields.io/github/downloads/SoyTuJefe/Saito/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
-   <a href="https://www.codefactor.io/repository/github/SoyTuJefe/Saito"><img src="https://www.codefactor.io/repository/github/SoyTuJefe/Saito/badge?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge" alt="CodeFactor" /></a>
+   <a href="https://www.codefactor.io/repository/github/rebelonion/dantotsu"><img src="https://www.codefactor.io/repository/github/rebelonion/dantotsu/badge?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge" alt="CodeFactor" /></a>
 
 </p>
 # **Saito** 🌟
