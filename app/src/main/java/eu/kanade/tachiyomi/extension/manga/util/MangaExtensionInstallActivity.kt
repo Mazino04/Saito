@@ -3,7 +3,7 @@ package eu.kanade.tachiyomi.extension.manga.util
 import android.app.Activity
 import android.content.Intent
 import android.os.Bundle
-import ani.saikou.themes.ThemeManager
+import ani.saito.themes.ThemeManager
 import eu.kanade.tachiyomi.extension.InstallStep
 import eu.kanade.tachiyomi.extension.manga.MangaExtensionManager
 import eu.kanade.tachiyomi.util.system.hasMiuiPackageInstaller

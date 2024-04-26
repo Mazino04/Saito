@@ -247,7 +247,7 @@
             android:layout_height="48dp"
             android:layout_gravity="center" />
 
-        <ani.saikou.FadingEdgeRecyclerView
+        <ani.saito.FadingEdgeRecyclerView
             android:id="@+id/mangaNovelRecyclerView"
             android:layout_width="match_parent"
             android:layout_height="250dp"

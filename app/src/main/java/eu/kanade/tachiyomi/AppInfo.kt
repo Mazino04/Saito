@@ -13,7 +13,7 @@ object AppInfo {
      *
      * @since extension-lib 1.3
      */
-    fun getVersionCode(): Int = ani.saikou.BuildConfig.VERSION_CODE
+    fun getVersionCode(): Int = ani.saito.BuildConfig.VERSION_CODE
 
     /**
      * Version name of the host application. May be useful for sharing as User-Agent information.
@@ -21,7 +21,7 @@ object AppInfo {
      *
      * @since extension-lib 1.3
      */
-    fun getVersionName(): String = ani.saikou.BuildConfig.VERSION_NAME
+    fun getVersionName(): String = ani.saito.BuildConfig.VERSION_NAME
 
     /**
      * A list of supported image MIME types by the reader.

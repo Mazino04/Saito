@@ -7,8 +7,8 @@ import android.content.pm.ServiceInfo
 import android.net.Uri
 import android.os.Build
 import android.os.IBinder
-import ani.saikou.R
-import ani.saikou.util.Logger
+import ani.saito.R
+import ani.saito.util.Logger
 import eu.kanade.domain.base.BasePreferences
 import eu.kanade.tachiyomi.data.notification.Notifications
 import eu.kanade.tachiyomi.extension.anime.installer.InstallerAnime

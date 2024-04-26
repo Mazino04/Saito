@@ -3,14 +3,14 @@
   "project_info": {
     "project_number": "281858651954",
     "project_id": "saikou-9ff8c",
-    "storage_bucket": "saikou-9ff8c.appspot.com"
+    "storage_bucket": "saito-9ff8c.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:281858651954:android:32c12cb011ed554f67492b",
         "android_client_info": {
-          "package_name": "ani.saikou-beta"
+          "package_name": "ani.saito-beta"
         }
       },
       "oauth_client": [],
@@ -29,7 +29,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:281858651954:android:32c12cb011ed554f67492b",
         "android_client_info": {
-          "package_name": "ani.saikou.beta"
+          "package_name": "ani.saito.beta"
         }
       },
       "oauth_client": [],
@@ -48,7 +48,7 @@
       "client_info": {
         "mobilesdk_app_id": "11:281858651954:android:32c12cb011ed554f67492b",
         "android_client_info": {
-          "package_name": "ani.saikou.alpha"
+          "package_name": "ani.saito.alpha"
         }
       },
       "oauth_client": [],
@@ -67,7 +67,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:281858651954:android:32c12cb011ed554f67492b",
         "android_client_info": {
-          "package_name": "ani.saikou"
+          "package_name": "ani.saito"
         }
       },
       "oauth_client": [],

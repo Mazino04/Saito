@@ -1,7 +1,7 @@
 package eu.kanade.tachiyomi.extension.manga.api
 
 import android.content.Context
-import ani.saikou.util.Logger
+import ani.saito.util.Logger
 import eu.kanade.tachiyomi.extension.ExtensionUpdateNotifier
 import eu.kanade.tachiyomi.extension.manga.MangaExtensionManager
 import eu.kanade.tachiyomi.extension.manga.model.AvailableMangaSources

@@ -2,9 +2,9 @@ package eu.kanade.tachiyomi.network
 
 import android.content.Context
 import android.os.Build
-import ani.saikou.Mapper
-import ani.saikou.settings.saving.PrefManager
-import ani.saikou.settings.saving.PrefName
+import ani.saito.Mapper
+import ani.saito.settings.saving.PrefManager
+import ani.saito.settings.saving.PrefName
 import com.lagradost.nicehttp.Requests
 import eu.kanade.tachiyomi.network.interceptor.CloudflareInterceptor
 import eu.kanade.tachiyomi.network.interceptor.UncaughtExceptionInterceptor

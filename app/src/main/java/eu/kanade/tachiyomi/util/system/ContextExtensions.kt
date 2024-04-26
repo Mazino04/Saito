@@ -22,7 +22,7 @@ import androidx.core.graphics.blue
 import androidx.core.graphics.green
 import androidx.core.graphics.red
 import androidx.core.net.toUri
-import ani.saikou.util.Logger
+import ani.saito.util.Logger
 import com.hippo.unifile.UniFile
 import eu.kanade.tachiyomi.util.lang.truncateCenter
 import java.io.File

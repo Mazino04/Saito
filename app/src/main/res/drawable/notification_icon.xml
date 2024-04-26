@@ -7,13 +7,13 @@
         android:scaleY="0.140625">
         <path
             android:pathData="M0,0h768v384h-768z"
-            android:fillColor="#FF4BA8"/>
+            android:fillColor="@color/md_theme_light_8_inversePrimary"/>
         <path
             android:pathData="M0,384h768v384h-768z"
-            android:fillColor="#C50053"/>
+            android:fillColor="@color/md_theme_light_8_primary"/>
         <path
             android:pathData="M384,384m-172.3,0a172.3,172.3 0,1 1,344.6 0a172.3,172.3 0,1 1,-344.6 0"
-            android:fillColor="#FF0080"/>
+            android:fillColor="@color/seed_8"/>
         <path
             android:pathData="M435.8,430.4c4.2,4.9 6.6,11.1 6.7,17.6c0,10.3 -6.4,17.4 -7.8,18.8L133.5,768H0V0h528.5L280.2,248.3c-8.9,9 -29.7,33.9 -29.7,71.7c0,10.2 2.3,45.7 31.6,73.6c26.4,25.1 57.6,27.9 69.8,27.9h63.9C417.5,421.5 428.4,422.1 435.8,430.4z"
             android:fillColor="#19212D"/>

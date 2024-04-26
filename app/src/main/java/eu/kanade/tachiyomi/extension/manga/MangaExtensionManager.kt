@@ -2,8 +2,8 @@ package eu.kanade.tachiyomi.extension.manga
 
 import android.content.Context
 import android.graphics.drawable.Drawable
-import ani.saikou.snackString
-import ani.saikou.util.Logger
+import ani.saito.snackString
+import ani.saito.util.Logger
 import eu.kanade.domain.source.service.SourcePreferences
 import eu.kanade.tachiyomi.extension.InstallStep
 import eu.kanade.tachiyomi.extension.manga.api.MangaExtensionGithubApi
