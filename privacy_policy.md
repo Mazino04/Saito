@@ -101,6 +101,6 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us via:
-- GitHub: [Dantotsu Issues](https://github.com/Mazino04/Saito/issues)
+- GitHub: [Saito Issues](https://github.com/Mazino04/Saito/issues)
 - Discord: "@mazino_04"
 - AniList: "Mazino04"
