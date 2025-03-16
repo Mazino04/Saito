@@ -88,8 +88,8 @@ Under the General Data Protection Regulation (GDPR) and other data protection la
 - Request deletion of your comments and associated data
 
 To exercise these rights or request deletion of your data, you can contact the developer:
-- On AniList: "rebelonion"
-- On Discord: "@rebelonion"
+- On AniList: "Mazino04"
+- On Discord: "@mazino_04"
 
 While we don't have an automated process for data deletion, we will process your request manually as soon as possible.
 
@@ -101,6 +101,6 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us via:
-- GitHub: [Dantotsu Issues](https://github.com/rebelonion/Dantotsu/issues)
-- Discord: "@rebelonion"
-- AniList: "rebelonion"
+- GitHub: [Dantotsu Issues](https://github.com/Mazino04/Saito/issues)
+- Discord: "@mazino_04"
+- AniList: "Mazino04"
